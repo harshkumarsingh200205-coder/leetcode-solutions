@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0050-powx-n) |
+| [0263-ugly-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
