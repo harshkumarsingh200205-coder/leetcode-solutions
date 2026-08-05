@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
