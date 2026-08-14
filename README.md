@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0290-word-pattern) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0290-word-pattern](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0290-word-pattern) |
 ## Stack
 |  |
 | ------- |
