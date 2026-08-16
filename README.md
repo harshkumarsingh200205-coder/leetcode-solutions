@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0409-longest-palindrome](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0409-longest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0409-longest-palindrome](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1952-three-divisors) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
