@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
