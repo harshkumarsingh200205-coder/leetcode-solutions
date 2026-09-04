@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
