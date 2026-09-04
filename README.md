@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
