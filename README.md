@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0414-third-maximum-number) |
