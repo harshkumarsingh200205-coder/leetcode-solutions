@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
