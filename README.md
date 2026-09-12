@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
