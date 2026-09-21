@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## String
