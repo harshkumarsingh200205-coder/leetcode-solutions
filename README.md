@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1683-invalid-tweets) |
