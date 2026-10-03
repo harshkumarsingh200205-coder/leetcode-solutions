@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
