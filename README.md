@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1393-capital-gainloss) |
 | [1661-average-time-of-process-per-machine](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
+| [1667-fix-names-in-a-table](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/harshkumarsingh200205-coder/leetcode-solutions/tree/master/1729-find-followers-count) |
